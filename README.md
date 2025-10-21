@@ -23,7 +23,7 @@
 <p align="center">
   <b>পাছ আন ফাস</b> is a modern Islamic Zikir Reminder App built with Flutter.<br>
   It helps you stay mindful of your daily Zikir through elegant notifications and floating overlays.<br><br>
-  🌙 <i>“Remember Allah often, that you may succeed.” – (Qur’an 62:10)</i> 🌿
+  🌙 <i>“Remember Allah often, that you may succeed.” – (AL-Qur’an Shareef 62:10)</i> 🌿
 </p>
 
 ---
@@ -47,7 +47,6 @@
   <img src="assets/screenshots/overlay_demo.jpg" width="250" alt="Overlay Reminder">
 </p>
 
-> 🖼️ Replace these paths with your actual project screenshots or GIF previews.
 
 ---
 
@@ -126,7 +125,7 @@ If you love this project, consider giving it a ⭐ on GitHub. 🌟
   <img src="https://img.shields.io/badge/May%20Allah%20Bless%20Your%20Zikir-💚-brightgreen?style=for-the-badge&logo=flutter" alt="Blessed">
 </p>
 
-<h3 align="center">🙏 Thank You for Visiting!</h3>
+<h3 align="center"> Thank You for Visiting!</h3>
 <p align="center">
   <i>May "পাছ আন ফাস" help you remember Allah frequently and bring peace to your heart.</i> 🌿
 </p>
