@@ -83,12 +83,12 @@ flutter build apk --release
 
 👉 [**Download Latest Pas-An-Fas APK**](https://github.com/ReXiOP/PasAnFas/releases/latest/download/PasAnFas.apk)
 
-> Make sure to upload the APK in GitHub Releases for this link to work.
+
 
 ---
 
 ## 🧭 Usage
-
+1. Give **Notification** permission
 1. Choose a reminder interval (1/5/15/30/custom).  
 2. Enable **floating overlay** to show reminders above other apps.  
 3. Start the Zikir reminder service and stay connected with your faith.  
