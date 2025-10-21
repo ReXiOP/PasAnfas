@@ -1,39 +1,53 @@
-# 🕌 পাছ আন ফাস (Pas-An-Fas)
+<!-- ──────────────────────────────────────────────────────────────── -->
+<!-- 🕌 পাছ আন ফাস (Pas-An-Fas) -->
+<!-- ──────────────────────────────────────────────────────────────── -->
 
-[![Flutter](https://img.shields.io/badge/Flutter-3.9.2-blue?logo=flutter\&logoColor=white)](https://flutter.dev/)
-[![Dart](https://img.shields.io/badge/Dart-3.9-blue?logo=dart\&logoColor=white)](https://dart.dev/)
-[![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-lightgrey)](#)
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](#)
-[![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
+<h1 align="center">🕌 পাছ আন ফাস (Pas-An-Fas)</h1>
 
-**পাছ আন ফাস** is a modern Zikir reminder app built with Flutter.
-It helps you remember your daily Zikir with notifications and optional floating overlays.
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-3.9.2-blue?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/Dart-3.9-blue?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/Platform-Android%20%7C%20iOS-lightgrey?style=for-the-badge&logo=googleplay" alt="Platform">
+  <img src="https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=githubactions&logoColor=white" alt="Build">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Version-6.4x-blue?style=for-the-badge&logo=internetexplorer" alt="Version">
+  <img src="https://img.shields.io/badge/License-Licensed-red?style=for-the-badge&logo=lock" alt="License">
+  <img src="https://img.shields.io/badge/Maintained%3F-Yes-success?style=for-the-badge&logo=github" alt="Maintained">
+  <img src="https://img.shields.io/badge/Made%20With❤️-By%20Muhammad%20Sajid-orange?style=for-the-badge&logo=github" alt="Made by Sajid">
+</p>
+
+---
+
+<p align="center">
+  <b>পাছ আন ফাস</b> is a modern Islamic Zikir Reminder App built with Flutter.<br>
+  It helps you stay mindful of your daily Zikir through elegant notifications and floating overlays.<br><br>
+  🌙 <i>“Remember Allah often, that you may succeed.” – (Qur’an 62:10)</i> 🌿
+</p>
 
 ---
 
 ## 🌟 Features
 
-* ✅ **Custom Interval Reminders:** 1, 5, 15, 30 minutes or your custom interval
-* ✅ **Floating Overlay Reminder:** Shows reminder above other apps (draggable & resizable)
-* ✅ **Local Notifications:** Never miss your Zikir
-* ✅ **Dark/Light Mode:** User-friendly theme switch
-* ✅ **Beautiful UI:** Islamic-themed splash & smooth animations
-* ✅ **Shared Preferences:** Save user settings for intervals and themes
+- ✅ **Custom Interval Reminders:** 1, 5, 15, 30 minutes or your custom interval  
+- ✅ **Floating Overlay Reminder:** Shows Zikir above other apps (draggable & resizable)  
+- ✅ **Local Notifications:** Never miss your Zikir  
+- ✅ **Dark/Light Mode:** User-friendly theme switch  
+- ✅ **Beautiful UI:** Islamic-themed design with smooth animations  
+- ✅ **Shared Preferences:** Saves your preferred settings automatically  
 
 ---
 
 ## 📲 Screenshots & Demo
 
-### Splash Screen
+<p align="center">
+  <img src="assets/screenshots/splash_screen.jpg" width="250" alt="Splash Screen">
+  <img src="assets/screenshots/home_screen.jpg" width="250" alt="Home Screen">
+  <img src="assets/screenshots/overlay_demo.jpg" width="250" alt="Overlay Reminder">
+</p>
 
-![Splash Screen](assets/screenshots/splash_screen.jpg)
-
-### Home & Overlay
-
-![Home Screen](assets/screenshots/home_screen.jpg)
-![Overlay Reminder](assets/screenshots/overlay_demo.jpg)
-
-> Replace these paths with actual screenshots/GIFs from your project.
+> 🖼️ Replace these paths with your actual project screenshots or GIF previews.
 
 ---
 
@@ -42,7 +56,7 @@ It helps you remember your daily Zikir with notifications and optional floating 
 Clone the repository:
 
 ```bash
-git https://github.com/ReXiOP/PasAnFas.git
+git clone https://github.com/ReXiOP/PasAnFas.git
 cd PasAnFas
 ```
 
@@ -52,65 +66,69 @@ Install dependencies:
 flutter pub get
 ```
 
-Run on device/emulator:
+Run the app:
 
 ```bash
 flutter run
 ```
 
-Build release APK:
+Build the release APK:
 
 ```bash
 flutter build apk --release
 ```
 
-
 ---
 
 ## 📥 Download APK
 
-You can also download the latest APK directly:
+👉 [**Download Latest Pas-An-Fas APK**](https://github.com/ReXiOP/PasAnFas/releases/latest/download/PasAnFas.apk)
 
-[Download Pasch An Fash APK](https://github.com/ReXiOP/PasAnFas/releases/latest/download/PasAnFas.apk)
-
-*(Add the APK in GitHub Releases to make this link work.)*
+> Make sure to upload the APK in GitHub Releases for this link to work.
 
 ---
 
-## 🧩 Usage
+## 🧭 Usage
 
-1. Select a reminder interval or set a custom one.
-2. Enable floating overlay if you want the reminder above other apps.
-3. Start reminders and receive timely Zikir notifications.
+1. Choose a reminder interval (1/5/15/30/custom).  
+2. Enable **floating overlay** to show reminders above other apps.  
+3. Start the Zikir reminder service and stay connected with your faith.  
 
-> Overlay notifications require **system permission** to appear above other apps.
+> ⚠️ Overlay requires **“Draw over other apps”** permission from system settings.
 
 ---
 
 ## 👨‍💻 Developer
 
-**Muhammad Sajid**
+**Muhammad Sajid**  
+🌏 Bangladesh  
+💻 GitHub: [@ReXiOP](https://github.com/ReXiOP)  
+📧 Email: [dev.sajid09@gmail.com](mailto:dev.sajid09@gmail.com)
 
-* 🌏 Bangladesh
-* 💻 GitHub: [https://github.com/ReXiOP](https://github.com/ReXiOP)
-* 📧 Email: [dev.sajid09@gmail.com](mailto:dev.sajid09@gmail.com)
-
-Passionate about Flutter and Islamic mobile apps.
+> Passionate Flutter Developer | Building meaningful Islamic mobile experiences 💫
 
 ---
 
 ## 📜 License
 
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
 
 ## 💬 Feedback & Contributions
 
-Contributions, issues, and feature requests are welcome! Please open an issue or submit a pull request.
+Contributions, issues, and feature requests are welcome!  
+If you love this project, consider giving it a ⭐ on GitHub. 🌟
 
 ---
 
-### 🙏 Thank You
+<p align="center">
+  <img src="https://img.shields.io/badge/May%20Allah%20Bless%20Your%20Zikir-💚-brightgreen?style=for-the-badge&logo=flutter" alt="Blessed">
+</p>
 
-May **পাছ আন ফাস** make remembering Zikir easier and more rewarding. 🌿
+<h3 align="center">🙏 Thank You for Visiting!</h3>
+<p align="center">
+  <i>May "পাছ আন ফাস" help you remember Allah frequently and bring peace to your heart.</i> 🌿
+</p>
+
+---
